@@ -1,7 +1,7 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https://github.com/yosmisyael)
+[![MasterHead](banner.gif)](https://github.com/yosmisyael)
 <h1 align="center">Hi 👋, I'm Yosev</h1>
 <h3 align="center">I do code</h3>
-<img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" align="right" width=400 />
+<img src="animate.gif" align="right" width=400 />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/yosmisyael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yosmisyael" height="30" width="40" /></a>
