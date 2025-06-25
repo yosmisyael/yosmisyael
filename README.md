@@ -1,4 +1,4 @@
-![Profile Banner](https://raw.githubusercontent.com/yosmisyael/yosmisyael/refs/heads/main/profile-banner.png)
+![Profile Banner](https://raw.githubusercontent.com/yosmisyael/yosmisyael/refs/heads/main/profile-banner-compact.png)
 <div align="center">
 <h3>Hi there 👋 I'm</h3>
 <h1>Yosev</h1>
